@@ -1,5 +1,6 @@
 # Apache-Incubator-Data
-The repo (https://github.com/lkyin/Apache-Incubator-Data) contains the scripts for gathering mbox files (commits and emails) in Apache Incubator Projects. Further updates on the scripts and/or data may be available. 
+The repo (https://github.com/lkyin/Apache-Incubator-Data) contains the scripts for gathering mbox files (commits and emails) in Apache Incubator Projects. Further updates on the scripts and/or data may be available. The data is available at Zenodo: https://doi.org/10.5281/zenodo.4741252
+
 
 ## Dependencies
 
